@@ -1,9 +1,9 @@
 {
     "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "description": "Annoying Dog",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
+         "name": "Taki_Shiwa, edited by Sunny, remixed by kotaaaaaaaa12",
          "id": "466968658997149706"
       }
     ],
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
+        "url": "https://raw.githubusercontent.com/kotaaaaaaaa12/discord-theme/refs/heads/main/annoying%20dog/main.jpg",
 	"alpha": 1
     },
     "plus": {
