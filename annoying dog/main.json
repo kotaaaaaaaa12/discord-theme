@@ -1,9 +1,9 @@
 {
-    "name": "ClearVision Midnight v1.1 (White Text)",
-    "description": "Midnight styled ClearVision port with white text by kotaaaaaaaa12",
+    "name": "ClearVision Midnight Annoying Dog ver",
+    "description": ":)",
     "authors": [
         {
-            "name": "Made by kotaaaaaaaa12",
+            "name": " Made by kotaaaaaaaa12",
             "id": "942617384159284723"
         }
     ],
@@ -13,21 +13,34 @@
         "BACKGROUND_SECONDARY_ALT": ["#14171A", "#14171A", "#14171A"],
         "BACKGROUND_FLOATING": ["#111318", "#111318", "#111318"],
         "BACKGROUND_ACCENT": ["#5865F2", "#5865F2", "#5865F2"],
+
         "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
         "HEADER_SECONDARY": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+
         "TEXT_NORMAL": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
         "TEXT_MUTED": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
-        "TEXT_LINK": ["#5865F2", "#5865F2", "#5865F2"],
-        "STATUS_POSITIVE_BACKGROUND": ["#57F287", "#57F287", "#57F287"],
-        "STATUS_WARNING_BACKGROUND": ["#FEE75C", "#FEE75C", "#FEE75C"],
-        "STATUS_DANGER_BACKGROUND": ["#ED4245", "#ED4245", "#ED4245"],
-        "CARD_PRIMARY_BG": ["#111318", "#111318", "#111318"],
-        "PANEL_BG": ["#111318", "#111318", "#111318"],
-        "INPUT_BACKGROUND": ["#1E1F22", "#1E1F22", "#1E1F22"],
+        "TEXT_LINK": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "TEXT_LINK_LOW_SATURATION": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "TEXT_POSITIVE": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "TEXT_WARNING": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "TEXT_DANGER": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+
+        "CHANNELS_DEFAULT": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "CHANNEL_ICON": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+
         "INTERACTIVE_NORMAL": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
         "INTERACTIVE_HOVER": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
         "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
-        "INTERACTIVE_MUTED": ["#CCCCCC", "#CCCCCC", "#CCCCCC"]
+        "INTERACTIVE_MUTED": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+
+        "STATUS_POSITIVE_BACKGROUND": ["#57F287", "#57F287", "#57F287"],
+        "STATUS_WARNING_BACKGROUND": ["#FEE75C", "#FEE75C", "#FEE75C"],
+        "STATUS_DANGER_BACKGROUND": ["#ED4245", "#ED4245", "#ED4245"],
+
+        "CARD_PRIMARY_BG": ["#111318", "#111318", "#111318"],
+        "PANEL_BG": ["#111318", "#111318", "#111318"],
+        "INPUT_BACKGROUND": ["#1E1F22", "#1E1F22", "#1E1F22"]
     },
     "rawColors": {
         "PRIMARY_100": "#5865F2",
@@ -54,12 +67,12 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#5865F2",
-            "ic_mic_muted_neutral": "#5865F2",
-            "ic_soundboard": "#5865F2",
-            "ic_soundboard_muted": "#5865F2",
-            "ic_video": "#5865F2",
-            "ic_video_disabled": "#5865F2"
+            "ic_mic_neutral": "#FFFFFF",
+            "ic_mic_muted_neutral": "#FFFFFF",
+            "ic_soundboard": "#FFFFFF",
+            "ic_soundboard_muted": "#FFFFFF",
+            "ic_video": "#FFFFFF",
+            "ic_video_disabled": "#FFFFFF"
         },
         "iconpack": "rosiecord-plumpy"
     },
